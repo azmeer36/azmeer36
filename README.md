@@ -4,15 +4,15 @@
 <h3 align="center">Passionate about turning coffee into code and ideas into reality.</h3>
 <img align="right" alt="Coding" width="400" src="https://github.com/azmeer36/azmeer36/assets/92108835/ab103aa9-e18f-4321-acca-e5cbfb785db5">
 
-- 🔭 I’m currently working on a [Road Anomaly Detection app, RoadSense](https://github.com/mustafakhokhar/RealTime_Pothole_Detection.git)
+- 🔭 I'm a Backend Software Developer proficient in Flask, Django, Nodejs, and Expressjs.
 
-- 🌱 I’m currently learning **OpenCV, Flutter, Django**
+- 🌱 I have a growing interest and passion for Computer Vision, NLP, and LLMS.
 
-- 💬 Ask me about **TensorFlow, Machine Learning Solutions, MERN**
+- 💬 Ask me about **ML Model Finetuning, Deployment, Building Pipelines, Fundamentals of Backend Engineering**
 
 - 📫 How to reach me **azmeerfaisal2@gmail.com**
 
-- ⚡ Fun fact **I'm dreaming big and coding bold. Future billionaire in the making!**
+- ⚡ Fun fact **I'm dreaming big and coding bold. Future Leader in the making!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
